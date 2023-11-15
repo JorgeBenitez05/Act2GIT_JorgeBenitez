@@ -1,6 +1,12 @@
 h1{
     color: green;
 }
+.foto{
+    background-image:url(../images/instituto.jpg);
+    margin: 20px;
+    height: 20vh;
+    width: 15vw;
+}
 .contenido{
     background-color: white;
     height: 60vh;
@@ -10,6 +16,11 @@ div{
     padding: 10px;
     display: flex;
     flex-direction: row;
+}
+.SobreMi{
+    color:white;
+    background-color: green;
+    padding: 20px;
 }
 
 h2{
